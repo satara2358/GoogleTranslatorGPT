@@ -1,0 +1,18 @@
+npm create vite@latest
+npm install
+npx eslint --init ///fix code
+
+npm install react-bootstrap bootstrap
+import 'bootstrap/dist/css/bootstrap.min.css'; /// en la APP import styles
+
+npm run dev
+
+gpt key
+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 no wok 
+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  
+
+------------------- 
+f0925457545bb3eeb0cc91626ff175aa
+
+npm install openai -E
+
