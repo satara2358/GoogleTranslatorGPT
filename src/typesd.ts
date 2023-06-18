@@ -12,6 +12,7 @@ export interface State {
   loading: boolean
 }
 
+
 export type Action =
   | { type: 'SET_FROM_LANGUAGE', payload: FromLanguage }
   | { type: 'INTERCHANGE_LANGUAGES' }
